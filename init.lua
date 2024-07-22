@@ -233,6 +233,7 @@ require('lazy').setup({
   'ThePrimeagen/harpoon',
   'github/copilot.vim',
   'folke/tokyonight.nvim',
+  'ThePrimeagen/vim-be-good',
 
   -- NOTE: Plugins can also be added by using a table,
   -- with the first argument being the link and the following
